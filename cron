@@ -1,0 +1,1 @@
+* * * * * /usr/bin/python2 /home/your_user_name/your_directory/hello_to_cron.py >> /home/your_user_name/your_directory/.log 2>&1
